@@ -18,6 +18,12 @@
 
   <!-- Icons for Technologies -->
   <br>
+  <a target="_blank" align="center">
+      <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" style="    max-width: 398px;
+    height: 255px;
+    display: inline-block;
+    border-radius: 0;" />
+  </a>
   <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="65" alt="TypeScript">
@@ -45,3 +51,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="65" alt="Vue.js">
   </div>
 </div>
+
+
+
