@@ -1,56 +1,52 @@
 <div align="center">
-  <!-- GitHub Profile Views -->
-<!--   <a href="https://komarev.com/ghpvc/?username=rukshan-thilakarathna&label=Profile%20views&color=0e75b6&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=rukshan-thilakarathna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-  </a> -->
   
-  <!-- GitHub Activity Graph -->
+  <!-- Header with Title and Subtitle -->
+  <h1>Hi there, I'm Rukshan 👋</h1>
+  <h3>Full Stack Developer | Open Source Contributor</h3>
 
-  
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rukshan-thilakarathna&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="242" alt="GitHub Activity Graph">
-<br>
-  
-<!-- Most Used Languages and Streak Stats -->
-  <div>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rukshan-thilakarathna&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" alt="Languages Graph">
-      <img width="40%" src="https://streak-stats.demolab.com?user=madhukazz&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" alt="Streak Graph">
+  <!-- GitHub Stats Cards -->
+  <div style="display: flex; gap: 1rem; justify-content: center; margin: 1rem 0;">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rukshan-thilakarathna&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats">
+    <img width="48%" src="https://streak-stats.demolab.com?user=rukshan-thilakarathna&theme=radical&hide_border=true" alt="GitHub Streak">
   </div>
 
-  <!-- Icons for Technologies -->
-  <br>
-  <a target="_blank" align="center">
-      <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" style="    max-width: 398px;
-    height: 255px;
-    display: inline-block;
-    border-radius: 0;" />
-  </a>
-  <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="65" alt="TypeScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" alt="CSS3">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" alt="MySQL">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="65" alt="WordPress">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="65" alt="MongoDB">
+  <!-- Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rukshan-thilakarathna&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph">
+
+  <!-- Top Languages -->
+  <h3>🛠️ My Toolbox</h3>
+  <div style="display: flex; justify-content: center; margin: 1rem 0;">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukshan-thilakarathna&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages">
   </div>
-  <br>
-  <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65" alt="React">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="65" alt="Material-UI">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" alt="Node.js">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" alt="Git">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="65" alt="GitHub">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="65" alt="npm">
+
+  <!-- Technology Stack -->
+  <h3>💻 Tech Stack</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 1rem 0;">
+    <!-- Frontend -->
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,html,css,tailwind,materialui" alt="Frontend Technologies">
+    <!-- Backend -->
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,graphql" alt="Backend Technologies">
+    <!-- Tools -->
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,figma,wordpress" alt="Tools">
   </div>
-  <br>
-  <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="65" alt="PHP">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="65" alt="Next.js">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" alt="HTML5">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="65" alt="Linux">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="65" alt="Shell Script">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="65" alt="Vue.js">
+
+  <!-- Contact/Badges -->
+  <h3>📫 Let's Connect</h3>
+  <div style="display: flex; justify-content: center; gap: 1rem; margin: 1rem 0;">
+    <a href="https://linkedin.com/in/yourprofile">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/yourhandle">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="mailto:youremail@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </div>
+
+  <!-- Fun Stats -->
+  <div style="display: flex; justify-content: center; gap: 1rem; margin: 1rem 0;">
+    <img src="https://komarev.com/ghpvc/?username=rukshan-thilakarathna&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/rukshan-thilakarathna?label=Followers&style=social" alt="Followers">
   </div>
 </div>
-
-
-
